@@ -5,7 +5,9 @@
 Equipo : Sistemas Inteligentes Multimedia 
 
 Andres Alberto Lavariega Castellanos
+
 Fabian Salinas López 
+
 Renato Armando De S. Palomares Navarro
 
 Abril 2018
